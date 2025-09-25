@@ -14,7 +14,8 @@
       "condition": "Foreign Used",
       "location": "Mombasa, Kenya",
       "imageUrl": "images/Screenshot from 2025-09-25 11-28-50.png",
-      "description": "Offers a spacious cabin with leather seating, a large touchscreen with wireless Apple CarPlay/Android Auto, and an available high-performance V-series engine. Magnetic Ride Control suspension, premium audio, and a bold exterior design make it a true luxury-sport sedan."
+      "description": "Offers a spacious cabin with leather seating, a large touchscreen with wireless Apple CarPlay/Android Auto, and an available high-performance V-series engine. Magnetic Ride Control suspension, premium audio, and a bold exterior design make it a true luxury-sport sedan.",
+      "available": "true"
     },
 
     {
@@ -31,7 +32,8 @@
       "condition": "New",
       "location": "Nairobi, Kenya",
       "imageUrl": "images/Screenshot from 2025-09-25 11-39-30.png",
-      "description": "Offers elegant styling, a plush interior with leather upholstery, ambient lighting, and the latest MBUX infotainment system. It appeals to buyers seeking a quiet, refined ride, strong turbo performance, and advanced safety tech such as active brake assist and 360° cameras."
+      "description": "Offers elegant styling, a plush interior with leather upholstery, ambient lighting, and the latest MBUX infotainment system. It appeals to buyers seeking a quiet, refined ride, strong turbo performance, and advanced safety tech such as active brake assist and 360° cameras.",
+      "available": "true"
     },
 
     {
@@ -48,7 +50,8 @@
       "condition": "New",
       "location": "Nairobi, Kenya",
       "imageUrl": "images/Screenshot from 2025-09-25 11-38-17.png",
-      "description": "Combines a spacious interior with leatherette seats, a responsive infotainment system, and impressive fuel efficiency. Key selling points include a smooth DSG transmission, roomy rear seats, and a reputation for German build quality."
+      "description": "Combines a spacious interior with leatherette seats, a responsive infotainment system, and impressive fuel efficiency. Key selling points include a smooth DSG transmission, roomy rear seats, and a reputation for German build quality.",
+      "available": "false"
     },
 
     {
@@ -65,7 +68,8 @@
       "condition": "Foreign Used",
       "location": "Mombasa, Kenya",
       "imageUrl": "images/Screenshot from 2025-09-25 11-34-08.png",
-      "description": "Impresses with a massive OLED curved display, hand-finished leather seats, AKG premium 36-speaker audio, and a supercharged V8 engine. Its combination of cutting-edge tech, unmatched cabin space, and aggressive styling draws luxury SUV enthusiasts."
+      "description": "Impresses with a massive OLED curved display, hand-finished leather seats, AKG premium 36-speaker audio, and a supercharged V8 engine. Its combination of cutting-edge tech, unmatched cabin space, and aggressive styling draws luxury SUV enthusiasts.",
+      "available": "true"
     },
 
     {
@@ -82,7 +86,8 @@
       "condition": "Used",
       "location": "Nairobi, Kenya",
       "imageUrl": "images/Screenshot from 2025-09-25 11-19-29.png",
-      "description": "Coupe-like silhouette, premium leather interior, digital Virtual Cockpit, and a power tailgate for practical cargo space. Buyers are drawn to its refined ride, advanced safety features, and seamless blend of style and practicality."
+      "description": "Coupe-like silhouette, premium leather interior, digital Virtual Cockpit, and a power tailgate for practical cargo space. Buyers are drawn to its refined ride, advanced safety features, and seamless blend of style and practicality.",
+      "available": "true"
     },
 
     {
@@ -99,7 +104,8 @@
       "condition": "New",
       "location": "Nairobi, Kenya",
       "imageUrl": "images/Screenshot from 2025-09-25 11-24-15.png",
-      "description": "Provides full-size luxury with semi-aniline leather seats, a 12.3-inch touchscreen, a Mark Levinson audio system, and a twin-turbo V6 for strong towing capacity. Its combination of off-road strength and five-star comfort appeals to high-end SUV buyers."
+      "description": "Provides full-size luxury with semi-aniline leather seats, a 12.3-inch touchscreen, a Mark Levinson audio system, and a twin-turbo V6 for strong towing capacity. Its combination of off-road strength and five-star comfort appeals to high-end SUV buyers.",
+      "available": "false"
     },
 
     {
@@ -116,7 +122,8 @@
       "condition": "New",
       "location": "Nairobi, Kenya",
       "imageUrl": "images/Screenshot from 2025-09-25 11-17-40.png",
-      "description": "Bold SUV design, panoramic sunroof, and upscale cabin featuring leather seats and the futuristic i-Cockpit digital driver display. Buyers love its fuel efficiency, smooth automatic gearbox, and advanced driver-assist features like adaptive cruise control and lane-keep assist."
+      "description": "Bold SUV design, panoramic sunroof, and upscale cabin featuring leather seats and the futuristic i-Cockpit digital driver display. Buyers love its fuel efficiency, smooth automatic gearbox, and advanced driver-assist features like adaptive cruise control and lane-keep assist.",
+      "available": "true"
     },
 
     {
@@ -133,7 +140,8 @@
       "condition": "New",
       "location": "Nairobi, Kenya",
       "imageUrl": "images/Screenshot from 2025-09-25 11-46-44.png",
-      "description": "Thrills with a twin-turbo V8, M Sport seats in Merino leather, adaptive M suspension, and an iDrive 7.0 system with a 12.3-inch touchscreen. Buyers love its aggressive coupe-SUV styling, blistering acceleration, and track-inspired handling."
+      "description": "Thrills with a twin-turbo V8, M Sport seats in Merino leather, adaptive M suspension, and an iDrive 7.0 system with a 12.3-inch touchscreen. Buyers love its aggressive coupe-SUV styling, blistering acceleration, and track-inspired handling.",
+      "available": "true"
     },
 
     {
@@ -150,7 +158,8 @@
       "condition": "New",
       "location": "Nairobi, Kenya",
       "imageUrl": "images/Screenshot from 2025-09-25 12-04-14.png",
-      "description": "Offers sporty handling, leather-trimmed seats, a 7-inch touchscreen with Apple CarPlay/Android Auto, and an efficient Skyactiv petrol engine. Buyers like its premium feel in a compact package, making it easy to park while still fun to drive."
+      "description": "Offers sporty handling, leather-trimmed seats, a 7-inch touchscreen with Apple CarPlay/Android Auto, and an efficient Skyactiv petrol engine. Buyers like its premium feel in a compact package, making it easy to park while still fun to drive.",
+      "available": "false"
     },
 
     {
@@ -167,7 +176,35 @@
       "condition": "New",
       "location": "Nairobi, Kenya",
       "imageUrl": "images/Screenshot from 2025-09-25 12-08-01.png",
-      "description": "Offers legendary off-road capability paired with leather seats, a robust 4WD system, and a spacious cabin for family adventures. Buyers appreciate its durability, high ground clearance, multi-terrain select modes, and reliable diesel or petrol engines."
+      "description": "Offers legendary off-road capability paired with leather seats, a robust 4WD system, and a spacious cabin for family adventures. Buyers appreciate its durability, high ground clearance, multi-terrain select modes, and reliable diesel or petrol engines.",
+      "available": "false"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "car_id": 3,
+      "buyer_name": "John Doe",
+      "price": "Ksh 2,900,000"
+    },
+
+    {
+      "id": 2,
+      "car_id": 6,
+      "buyer_name": "Joy Chesire",
+      "price": "Ksh 35,000,000"
+    },
+    {
+      "id": 3,
+      "car_id": 9,
+      "buyer_name": "Hannah Mwashighadi",
+      "price": "Ksh 2,900,000"
+    },
+    {
+      "id": 4,
+      "car_id": 10,
+      "buyer_name": "Jenniffer Mkambala",
+      "price": "Ksh 8,300,000"
     }
   ]
 }
