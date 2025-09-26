@@ -7,27 +7,68 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="container">
-      <div id="car-list"></div>
+    <header class="site-header">
+      <h1>Torque & Lustre</h1>
+      <p class="tagline">
+        Showcasing Cars as more than machines: The Torque that Drives Them and
+        the Lustre that Defines Them.
+      </p>
+    </header>
+    <section class="search-section">
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Search by make or model..."
+      />
+      <div id="results"></div>
+      <button onclick="searchCars()">Search</button>
+    </section>
+    <div id="car-list"></div>
+    <div
+      id="modal"
+      style="
+        display: none;
+        position: fixed;
+        top: 20%;
+        left: 50%;
+        transform: translateX(-50%);
+        background: #fff;
+        padding: 20px;
+        border: 1px solid #ccc;
+        z-index: 1000;
+      "
+    >
+      <span onclick="closeModal()" style="cursor: pointer">Close</span>
+      <div id="modalContent"></div>
+    </div>
 
-      <div class="car-details">
+    <div id="car-details" class="hidden">
+      <button id="backButton">← Back</button>
+      <div id="detailsContent">
         <img id="image" />
-        <p id="make"></p>
-        <p id="model"></p>
-        <p id="year"></p>
-        <p id="color"></p>
-        <p id="price"></p>
-        <p id="mileage"></p>
-        <p id="fuelType"></p>
-        <p id="transmission"></p>
-        <p id="bodyType"></p>
-        <p id="condition"></p>
-        <p id="location"></p>
+        <p id="make"><strong>Make:</strong></p>
+        <p id="model"><strong>Model:</strong></p>
+        <p id="year"><strong>Year:</strong></p>
+        <p id="color"><strong>Color:</strong></p>
+        <p id="price"><strong>Price:</strong></p>
+        <p id="mileage"><strong>Mileage:</strong></p>
+        <p id="fuelType"><strong>Fuel Type:</strong></p>
+        <p id="transmission"><strong>Fuel Type:</strong></p>
+        <p id="bodyType"><strong>Body Type:</strong></p>
+        <p id="condition"><strong>Condition:</strong></p>
+        <p id="location"><strong>Location:</strong></p>
         <p id="description"></p>
+
+        <label for="paymentSelect"><strong>Payment Method:</strong></label>
+        <select id="paymentSelect">
+          <option value="">Select Payment Method</option>
+          <option value="Mpesa">Mpesa</option>
+          <option value="Bank Transfer">Bank Transfer</option>
+          <option value="Cash">Cash</option>
+        </select>
         <button id="buyButton">Buy Now</button>
       </div>
     </div>
-
     <script src="index.js"></script>
   </body>
 </html>
